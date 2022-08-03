@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Dialog</string>
+    <string name="d1">d1</string>
+    <string name="d2">d2</string>
+    <string name="textview">TextView</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="d3">d3</string>
+
+</resources>
